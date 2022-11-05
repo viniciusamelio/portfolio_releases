@@ -2,4 +2,4 @@
 dependsOn = ["install"]
 
 [start]
-cmd = ["npm start"]
+cmd = "npm start"
